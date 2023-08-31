@@ -73,6 +73,8 @@
 
 [PhoMoH: Implicit Photorealistic 3D Models of Human Heads, ](https://arxiv.org/pdf/2212.07275.pdf)
 
+[Single-Shot Implicit Morphable Faces with Consistent Texture Parameterization, SIGGRAPH](https://arxiv.org/pdf/2305.03043.pdf), _[Project Page](https://research.nvidia.com/publication/2023-08_ssif-single-shot-implicit-morphable-faces-consistent-texture-parameterization)_, [Project Page](https://research.nvidia.com/labs/toronto-ai/ssif/)
+
 ### 2022
 [COAP: Compositional Articulated Occupancy of People, CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Mihajlovic_COAP_Compositional_Articulated_Occupancy_of_People_CVPR_2022_paper.pdf), _[Project Page](https://neuralbodies.github.io/COAP/)_, _[Code](https://github.com/markomih/COAP)_
 
