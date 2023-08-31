@@ -206,6 +206,8 @@
 
 [NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object](https://arxiv.org/pdf/2302.00675.pdf), _[Code](https://github.com/sony/NDJIR)_
 
+[ShadowNeus: Neural SDF Reconstruction by Shadow Ray Supervision, CVPR](https://arxiv.org/pdf/2211.14086.pdf), _[Project Page](https://gerwang.github.io/shadowneus/)_, _[Code](https://github.com/gerwang/ShadowNeuS)_
+
 ### 2022
 [Advances in Neural Rendering, Computer Graphics Forum](https://arxiv.org/pdf/2111.05849.pdf)
 
