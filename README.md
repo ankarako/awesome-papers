@@ -223,6 +223,8 @@
 
 [Geometry Processing with Neural Fields, NeurIPS](https://proceedings.neurips.cc/paper/2021/file/bd686fd640be98efaae0091fa301e613-Paper.pdf), _[Project Page](https://www.guandaoyang.com/NFGP/)_ _[Code](https://github.com/stevenygd/NFGP)_
 
+[Pulsar: Efficient Sphere-based Neural Rendering, CVPR](https://arxiv.org/pdf/2004.07484.pdf), _[Project Page](https://christophlassner.de/publication/pulsar/)_, _[Code](https://github.com/facebookresearch/pytorch3d)_
+
 ## Differentiable Rendering
 ### 2022
 [Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising, NeurIPS](https://arxiv.org/abs/2206.03380), _[Project Page](https://nvlabs.github.io/nvdiffrecmc/)_, _[Code](https://github.com/NVlabs/nvdiffrecmc/tree/main)_
