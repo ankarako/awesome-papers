@@ -189,7 +189,7 @@
 
 
 
-## Neural Surface Reconstruction/Rendering
+## Neural Rendering/Surface Reconstruction
 ### 2023
 [3D Gaussian Splatting for Real-Time Radiance Field Rendering, SIGGRAPH](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf), _[Project Page](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)_, _[Code](https://github.com/graphdeco-inria/gaussian-splatting)_
 
@@ -211,7 +211,7 @@
 ### 2022
 [Advances in Neural Rendering, Computer Graphics Forum](https://arxiv.org/pdf/2111.05849.pdf)
 
-
+[A Level Set Theory of Neural Implicit Evolution under Explicit Flows, ECCV](https://arxiv.org/pdf/2204.07159.pdf), _[Project Page](https://ishit.github.io/nie/)_, _[Code](https://github.com/ishit/nie)_
 
 ### 2021
 [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction, Neurips](https://arxiv.org/pdf/2106.10689.pdf), _[Project Page](https://lingjie0206.github.io/papers/NeuS/)_, _[Code](https://github.com/Totoro97/NeuS)_
