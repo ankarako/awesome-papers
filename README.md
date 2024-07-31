@@ -1,6 +1,9 @@
 # 3D Facial and Full-body Reconstruction Papers
 
 ## Implicit Representations
+### 2024
+Lyu, X., Sun, Y. T., Huang, Y. H., Wu, X., Yang, Z., Chen, Y., ... & Qi, X. (2024). [3dgsr: Implicit surface reconstruction with 3d gaussian splatting.](https://arxiv.org/pdf/2404.00409) arXiv preprint arXiv:2404.00409.
+
 ### 2023
 [Learning Neural Parameteric Head Models, CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Giebenhain_Learning_Neural_Parametric_Head_Models_CVPR_2023_paper.pdf), _[Project Page](https://simongiebenhain.github.io/NPHM/)_, _[Code](https://github.com/SimonGiebenhain/NPHM#learning-neural-parametric-head-models-nphm)_
 
@@ -242,15 +245,52 @@
 [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images, NeurIPS](https://nv-tlabs.github.io/GET3D/assets/paper.pdf), _[Project Page](https://nv-tlabs.github.io/GET3D/)_, _[Code](https://github.com/nv-tlabs/GET3D)_
 
 
-## Diffusion-based
+## Diffusion-Models
+### 2024
+Yi, T., Fang, J., Wu, G., Xie, L., Zhang, X., Liu, W., ... & Wang, X. (2023). [Gaussiandreamer: Fast generation from text to 3d gaussian splatting with point cloud priors.](https://arxiv.org/pdf/2310.08529) arXiv preprint arXiv:2310.08529.
+
+
+Chen, C., Yang, X., Yang, F., Feng, C., Fu, Z., Foo, C. S., ... & Liu, F. (2024). [Sculpt3d: Multi-view consistent text-to-3d generation with sparse 3d prior.](https://arxiv.org/pdf/2403.09140) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10228-10237).
+
+Zhang, B., Cheng, Y., Yang, J., Wang, C., Zhao, F., Tang, Y., ... & Guo, B. (2024). [GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling.](https://arxiv.org/pdf/2403.19655) arXiv preprint arXiv:2403.19655.
+
 ### 2023
+Li, X., Wang, H., & Tseng, K. K. (2023). [Gaussiandiffusion: 3d gaussian splatting for denoising diffusion probabilistic models with structured noise.](https://arxiv.org/pdf/2311.11221) arXiv preprint arXiv:2311.11221.
+
+
+Szymanowicz, S., Rupprecht, C., & Vedaldi, A. (2023). [Viewset diffusion:(0-) image-conditioned 3d generative models from 2d data.](https://openaccess.thecvf.com/content/ICCV2023/papers/Szymanowicz_Viewset_Diffusion_0-Image-Conditioned_3D_Generative_Models_from_2D_Data_ICCV_2023_paper.pdf) In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 8863-8873).
+
+
+Karnewar, A., Vedaldi, A., Novotny, D., & Mitra, N. J. (2023). [Holodiffusion: Training a 3d diffusion model using 2d images.](https://arxiv.org/pdf/2303.16509) In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 18423-18433).
+
+Kim, S. W., Brown, B., Yin, K., Kreis, K., Schwarz, K., Li, D., ... & Fidler, S. (2023). [Neuralfield-ldm: Scene generation with hierarchical latent diffusion models.](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_NeuralField-LDM_Scene_Generation_With_Hierarchical_Latent_Diffusion_Models_CVPR_2023_paper.pdf) In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 8496-8506).
+
+Shue, J. R., Chan, E. R., Po, R., Ankner, Z., Wu, J., & Wetzstein, G. (2023). [3d neural field generation using triplane diffusion.](https://openaccess.thecvf.com/content/CVPR2023/papers/Shue_3D_Neural_Field_Generation_Using_Triplane_Diffusion_CVPR_2023_paper.pdf) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 20875-20886).
+
+
+Wynn, J., & Turmukhambetov, D. (2023). [Diffusionerf: Regularizing neural radiance fields with denoising diffusion models.](https://openaccess.thecvf.com/content/CVPR2023/papers/Wynn_DiffusioNeRF_Regularizing_Neural_Radiance_Fields_With_Denoising_Diffusion_Models_CVPR_2023_paper.pdf) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 4180-4189).
+
+
 [Controllable Mesh Generation Through Sparse Latent Point Diffusion Models, CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Lyu_Controllable_Mesh_Generation_Through_Sparse_Latent_Point_Diffusion_Models_CVPR_2023_paper.pdf), _[Project Page](https://slide-3d.github.io/)_, _[Code](https://github.com/SLIDE-3D/SLIDE)_
 
 
 [Diffusion-Based Signed Distance Fields for 3D Shape Generation, CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Shim_Diffusion-Based_Signed_Distance_Fields_for_3D_Shape_Generation_CVPR_2023_paper.pdf), _[Project Page](https://kitsunetic.github.io/sdf-diffusion/)_
 
 
+Wang, T., Zhang, B., Zhang, T., Gu, S., Bao, J., Baltrusaitis, T., ... & Guo, B. (2023). [Rodin: A generative model for sculpting 3d digital avatars using diffusion.](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_RODIN_A_Generative_Model_for_Sculpting_3D_Digital_Avatars_Using_CVPR_2023_paper.pdf) In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 4563-4573).
 
 
+Li, M., Duan, Y., Zhou, J., & Lu, J. (2023). [Diffusion-sdf: Text-to-shape via voxelized diffusion.](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Diffusion-SDF_Text-To-Shape_via_Voxelized_Diffusion_CVPR_2023_paper.pdf) In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 12642-12651).
+
+Yang, X., Chen, Y., Chen, C., Zhang, C., Xu, Y., Yang, X., ... & Lin, G. (2023). [Learn to optimize denoising scores for 3d generation: A unified and improved diffusion prior on nerf and 3d gaussian splatting.](https://arxiv.org/pdf/2312.04820) arXiv preprint arXiv:2312.04820.
+
+### 2022
+Poole, B., Jain, A., Barron, J. T., & Mildenhall, B. (2022). [Dreamfusion: Text-to-3d using 2d diffusion.](https://arxiv.org/pdf/2209.14988) arXiv preprint arXiv:2209.14988.
 
 
+## Other
+### 2019
+Zhou, Y., Barnes, C., Lu, J., Yang, J., & Li, H. (2019). [On the continuity of rotation representations in neural networks.](https://arxiv.org/pdf/1812.07035) In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 5745-5753).
+
+### 2007
+Sumner, R. W., Schmid, J., & Pauly, M. (2007). [Embedded deformation for shape manipulation.](https://people.inf.ethz.ch/~sumnerb/research/embdef/Sumner2007EDF.pdf) In ACM siggraph 2007 papers (pp. 80-es).
